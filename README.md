@@ -18,7 +18,7 @@ I'm thrilled to have you here on myGitHub page, where I share resources and tool
  
 <div> 
   <a href="https://www.linkedin.com/in/arthurhendricks" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   	<a href = "mailto:arthur.oliveira.101982@ga.ita.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   	<a href = "mailto:arthur.oliveira.101982@ga.ita.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://scholar.google.com/citations?hl=en&user=Grv19eoAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"></a>
   
 </div>
