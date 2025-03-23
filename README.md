@@ -1,4 +1,4 @@
-## 🇧🇷 Arthur Hendricks
+## :brazil: Arthur Hendricks
 
 I'm thrilled to have you here on myGitHub page, where I share resources and tools related to my DSc Degree in Systems Engineering.
 
