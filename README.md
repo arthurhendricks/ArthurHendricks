@@ -1,4 +1,4 @@
-## <span>&#x1f1e7;&#x1f1f7;</span> Arthur Hendricks
+## :us: Arthur Hendricks
 :brazil: 
 
 I'm thrilled to have you here on my GitHub page, where I share resources and tools related to my DSc Degree in Systems Engineering.
