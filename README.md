@@ -9,10 +9,10 @@
   <img align="center" alt="Arthur-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Arthur-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </div>
-
+##
 <div> 
  	<a href = "mailto:arthur.oliveira.101982@ga.ita.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurhendricks" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://scholar.google.com/citations?hl=en&user=Grv19eoAAAAJ" target="_blank"><img src="https://img.shields.io/badge/-Scholar-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://scholar.google.com/citations?hl=en&user=Grv19eoAAAAJ" target="_blank"><img src="https://img.shields.io/badge/-Scholar-%23E4405F?style=for-the-badge&logo=-scholar-&logoColor=white" target="_blank"></a>
   
 </div>
